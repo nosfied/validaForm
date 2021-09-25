@@ -1,1 +1,1 @@
-Pequeno exemplo de validação de formulário em Laravel.
+Exemplo de validação de formulário em Laravel.
